@@ -1,5 +1,5 @@
 // Write a program in c for sorting an array of n numbers of element using the following algorithm .
-// 1. Merge sort. 
+// Merge sort. 
 #include<stdio.h>
 void merge(int a[], int l, int mid, int h){
 	int i,j,k;
