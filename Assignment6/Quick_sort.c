@@ -1,5 +1,5 @@
 // Write a program in c for sorting an array of n numbers of element using the following algorithm .
-// 1. Quick sort.
+// Quick sort.
 #include<stdio.h>
 int partition(int a[], int l, int h){
 int pivot =a[l];
