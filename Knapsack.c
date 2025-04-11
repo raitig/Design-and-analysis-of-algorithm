@@ -1,3 +1,4 @@
+// Write a program in C to solve the 0/1 knapsack problem using the dynamic programming approach.
 #include<stdio.h>
 int max(int a,int b){
     return(a>b)? a:b;
