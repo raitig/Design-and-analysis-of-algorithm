@@ -1,4 +1,4 @@
-// Given s sequence of matrix dimension as input, write a program in C to calculate the minimum number of scalar multiplication require to multiply those matrices.
+// Given a sequence of matrix dimension as input, write a program in C to calculate the minimum number of scalar multiplication require to multiply those matrices.
 #include <stdio.h>
 #include <limits.h>
 int matrixchainMultiplication(int p[], int n){
